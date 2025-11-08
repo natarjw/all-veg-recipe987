@@ -563,7 +563,7 @@
             "gujaratiDate": "શ્રાવણ, વદ ચોથ",
             "detils": 59
           },
-           {
+          {
             "date": "13",
             "name": "નાગ પાંચમ",
             "gujaratiDate": "શ્રાવણ, વદ પાંચમ",
@@ -2250,6 +2250,1231 @@
             "name": "કાલાષ્ટમી",
             "gujaratiDate": "માગશર, વદ આઠમ",
             "details": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2027,
+    "link": "https://www.drikpanchang.com/gujarati/calendar/gujarati-calendar.html?year=2027",
+    "data": [
+      {
+        "month": "01",
+        "data": [
+          {
+            "date": "03",
+            "name": "સફલા એકાદશી",
+            "gujaratiDate": "માગશર, વદ અગિયારશ",
+            "detils": 201
+          },
+          {
+            "date": "09",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "પોષ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "11",
+            "name": "વિઘ્નેશ્વર ચોથ",
+            "gujaratiDate": "પોષ, સુદ ચોથ",
+            "detils": 509
+          },
+          {
+            "date": "14",
+            "name": "મકર સંક્રાંતિ",
+            "gujaratiDate": "સૂર્ય નોં ધનુ થી મકર રાશિ માં પ્રવેશ",
+            "detils": 5
+          },
+          {
+            "date": "15",
+            "name": "ઉત્તરાયણ",
+            "gujaratiDate": "સૌર કેલેન્ડર પર આધારિત",
+            "detils": 510
+          },
+          {
+            "date": "16",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "પોષ, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "18",
+            "name": "પુત્રદા એકાદશી",
+            "gujaratiDate": "પોષ, સુદ અગિયારશ",
+            "detils": 4
+          },
+          {
+            "date": "19",
+            "name": "ગૌણ પુત્રદા એકાદશી",
+            "gujaratiDate": "પોષ, સુદ અગિયારશ",
+            "detils": 4
+          },
+          {
+            "date": "19",
+            "name": "વૈષ્ણવ પુત્રદા એકાદશી",
+            "gujaratiDate": "પોષ, સુદ અગિયારશ",
+            "detils": 4
+          },
+          {
+            "date": "25",
+            "name": "લંબોદર સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "પોષ, વદ ચોથ",
+            "detils": 7
+          },
+          {
+            "date": "29",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "પોષ, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "29",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "પોષ, વદ આઠમ",
+            "detils": 511
+          }
+        ]
+      },
+      {
+        "month": "02",
+        "data": [
+          {
+            "date": "02",
+            "name": "શટીલા એકાદશી",
+            "gujaratiDate": "પોષ, સુદ પાંચમ",
+            "detils": 6
+          },
+          {
+            "date": "06",
+            "name": "સૂર્ય ગ્રહણ *વલયાકૃતિ",
+            "gujaratiDate": "શનિવાર અમાસ દરમિયાન થાય છે",
+            "detils": 16
+          },
+          {
+            "date": "08",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "મહા, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "10",
+            "name": "ગૌરીગણેશ ચોથ",
+            "gujaratiDate": "મહા, સુદ ચોથ",
+            "detils": 512
+          },
+          {
+            "date": "11",
+            "name": "વસંત પંચમી",
+            "gujaratiDate": "મહા, સુદ પાંચમ",
+            "detils": 10
+          },
+          {
+            "date": "10",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "મહા, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "17",
+            "name": "જયા એકાદશી",
+            "gujaratiDate": "મહા, સુદ અગિયારશ",
+            "detils": 11
+          },
+          {
+            "date": "21",
+            "name": "ચંદ્ર ગ્રહણ *ઉપચ્છાયા",
+            "gujaratiDate": "પૂનમ દરમિયાન થાય છે.",
+            "detils": 20
+          },
+          {
+            "date": "24",
+            "name": "દ્વિજપ્રિય સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "મહા, વદ ચોથ",
+            "detils": 12
+          },
+          {
+            "date": "27",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "મહા, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "28",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "મહા, વદ આઠમ",
+            "detils": 9
+          }
+        ]
+      },
+      {
+        "month": "03",
+        "data": [
+          {
+            "date": "04",
+            "name": "વિજયા એકાદશી",
+            "gujaratiDate": "મહા, વદ અગિયારશ",
+            "detils": 13
+          },
+          {
+            "date": "06",
+            "name": "મહા શિવરાત્રિ",
+            "gujaratiDate": "મહા, વદ ચૌદસ",
+            "detils": 14
+          },
+          {
+            "date": "08",
+            "name": "સોમવતી અમાસ",
+            "gujaratiDate": "મહા, વદ અમાસ",
+            "detils": 403
+          },
+          {
+            "date": "09",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "ફાગણ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "03",
+            "name": "ધુંધિરજા ચોથ",
+            "gujaratiDate": "ફાગણ, સુદ ચોથ",
+            "detils": 513
+          },
+          {
+            "date": "15",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "ફાગણ, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "18",
+            "name": "આમલકી એકાદશી",
+            "gujaratiDate": "ફાગણ, સુદ અગિયારશ",
+            "detils": 15
+          },
+          {
+            "date": "21",
+            "name": "હોળી",
+            "gujaratiDate": "ફાગણ, સુદ પૂનમ",
+            "detils": 17
+          },
+          {
+            "date": "21",
+            "name": "હોલિકા દહન",
+            "gujaratiDate": "ફાગણ, સુદ પૂનમ",
+            "detils": 17
+          },
+          {
+            "date": "22",
+            "name": "ધૂળેટી",
+            "gujaratiDate": "ફાગણ, વદ પડવો",
+            "detils": 19
+          },
+          {
+            "date": "25",
+            "name": "ભાલચંદ્ર સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "ફાગણ, વદ ચોથ",
+            "detils": 21
+          },
+          {
+            "date": "29",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "ફાગણ, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "29",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "ફાગણ, વદ આઠમ",
+            "detils": 511
+          }
+        ]
+      },
+      {
+        "month": "04",
+        "data": [
+          {
+            "date": "02",
+            "name": "પાપમોચિની એકાદશી",
+            "gujaratiDate": "ફાગણ, વદ અગિયારશ",
+            "detils": 22
+          },
+          {
+            "date": "07",
+            "name": "ગુડી પડવા",
+            "gujaratiDate": "ચૈત્ર, સુદ પડવો",
+            "detils": 23
+          },
+          {
+            "date": "08",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "ચૈત્ર, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "10",
+            "name": "વાસુદેવ ચતુર્થી",
+            "gujaratiDate": "ચૈત્ર, સુદ ચોથ",
+            "detils": 514
+          },
+          {
+            "date": "14",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "ચૈત્ર, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "15",
+            "name": "રામનવમી",
+            "gujaratiDate": "ચૈત્ર, સુદ નોમ",
+            "detils": 24
+          },
+          {
+            "date": "17",
+            "name": "કામદા એકાદશી",
+            "gujaratiDate": "ચૈત્ર, સુદ અગિયારશ",
+            "detils": 25
+          },
+          {
+            "date": "20",
+            "name": "હનુમાન જયંતી",
+            "gujaratiDate": "ચૈત્ર, સુદ પૂનમ",
+            "detils": 26
+          },
+          {
+            "date": "20",
+            "name": "હનુમાન જન્મોત્સવ",
+            "gujaratiDate": "ચૈત્ર, સુદ પૂનમ",
+            "detils": 27
+          },
+          {
+            "date": "24",
+            "name": "વિકટ સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "ચૈત્ર, વદ ચોથ",
+            "detils": 28
+          },
+          {
+            "date": "28",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "ચૈત્ર, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "28",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "ચૈત્ર, વદ આઠમ",
+            "detils": 511
+          }
+        ]
+      },
+      {
+        "month": "05",
+        "data": [
+          {
+            "date": "02",
+            "name": "વરુથિની એકાદશી",
+            "gujaratiDate": "ચૈત્ર, વદ અગિયારશ",
+            "detils": 29
+          },
+          {
+            "date": "07",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "વૈશાખ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "08",
+            "name": "પરશુરામ જયંતી",
+            "gujaratiDate": "વૈશાખ, સુદ ત્રીજ",
+            "detils": 30
+          },
+          {
+            "date": "09",
+            "name": "અખા ત્રીજ",
+            "gujaratiDate": "વૈશાખ, સુદ ત્રીજ",
+            "detils": 31
+          },
+          {
+            "date": "09",
+            "name": "શંકરા ચતુર્થી",
+            "gujaratiDate": "વૈશાખ, સુદ ચોથ",
+            "detils": 515
+          },
+          {
+            "date": "12",
+            "name": "ગંગા સપ્તમી",
+            "gujaratiDate": "વૈશાખ, સુદ સાતમ",
+            "detils": 32
+          },
+          {
+            "date": "13",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "વૈશાખ, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "14",
+            "name": "સીતા નવમી",
+            "gujaratiDate": "વૈશાખ, સુદ નોમ",
+            "detils": 33
+          },
+          {
+            "date": "16",
+            "name": "મોહિની એકાદશી",
+            "gujaratiDate": "વૈશાખ, સુદ અગિયારશ",
+            "detils": 34
+          },
+          {
+            "date": "18",
+            "name": "નૃસિંહ જયંતી",
+            "gujaratiDate": "વૈશાખ, સુદ ચૌદસ",
+            "detils": 35
+          },
+          {
+            "date": "19",
+            "name": "કૂર્મ જયંતી",
+            "gujaratiDate": "વૈશાખ, સુદ પૂનમ",
+            "detils": 36
+          },
+          {
+            "date": "21",
+            "name": "નારદ જયંતી",
+            "gujaratiDate": "વૈશાખ, વદ પડવો",
+            "detils": 37
+          },
+          {
+            "date": "23",
+            "name": "એકદંત સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "વૈશાખ, વદ ચોથ",
+            "detils": 38
+          },
+          {
+            "date": "28",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "વૈશાખ, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "28",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "વૈશાખ, વદ આઠમ",
+            "detils": 511
+          }
+        ]
+      },
+      {
+        "month": "06",
+        "data": [
+          {
+            "date": "01",
+            "name": "અપરા એકાદશી",
+            "gujaratiDate": "વૈશાખ, વદ અગિયારશ",
+            "detils": 39
+          },
+          {
+            "date": "04",
+            "name": "શનિ જયંતી",
+            "gujaratiDate": "વૈશાખ, વદ અમાસ",
+            "detils": 41
+          },
+          {
+            "date": "05",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "જેઠ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "08",
+            "name": "પ્રદ્યુમ્ન ચતુર્થી",
+            "gujaratiDate": "જેઠ, સુદ ચોથ",
+            "detils": 516
+          },
+          {
+            "date": "11",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "જેઠ, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "14",
+            "name": "નિર્જળા એકાદશી",
+            "gujaratiDate": "જેઠ, સુદ અગિયારશ",
+            "detils": 44
+          },
+          {
+            "date": "22",
+            "name": "કૃષ્ણપિંગલ સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "જેઠ, વદ ચોથ",
+            "detils": 45
+          },
+          {
+            "date": "26",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "જેઠ, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "27",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "જેઠ, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "30",
+            "name": "યોગિની એકાદશી",
+            "gujaratiDate": "જેઠ, વદ અગિયારશ",
+            "detils": 46
+          }
+        ]
+      },
+      {
+        "month": "07",
+        "data": [
+          {
+            "date": "05",
+            "name": "રથયાત્રા",
+            "gujaratiDate": "અષાઢ, સુદ બીજ",
+            "detils": 47
+          },
+          {
+            "date": "05",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "અષાઢ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "07",
+            "name": "અનિરુદ્ધ ચતુર્થી",
+            "gujaratiDate": "અષાઢ, સુદ ચોથ",
+            "detils": 517
+          },
+          {
+            "date": "11",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "અષાઢ, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "14",
+            "name": "દેવશયની એકાદશી",
+            "gujaratiDate": "અષાઢ, સુદ અગિયારશ",
+            "detils": 48
+          },
+          {
+            "date": "14",
+            "name": "ગૌરી વ્રત પ્રારંભ",
+            "gujaratiDate": "અષાઢ, સુદ બારસ",
+            "detils": 49
+          },
+          {
+            "date": "16",
+            "name": "જયાપર્વર્તી વ્રત પ્રારંભ",
+            "gujaratiDate": "અષાઢ, સુદ તેરસ",
+            "detils": 51
+          },
+          {
+            "date": "18",
+            "name": "ગુરુ પૂર્ણિમા",
+            "gujaratiDate": "અષાઢ, સુદ પૂનમ",
+            "detils": 50
+          },
+          {
+            "date": "17",
+            "name": "કોકિલા વ્રત",
+            "gujaratiDate": "અષાઢ, સુદ પૂનમ",
+            "detils": 52
+          },
+          {
+            "date": "18",
+            "name": "ગૌરી વ્રત સમાપ્ત",
+            "gujaratiDate": "અષાઢ, સુદ પૂનમ",
+            "detils": 53
+          },
+          {
+            "date": "16",
+            "name": "જયાપર્વર્તી વ્રત સમાપ્ત",
+            "gujaratiDate": "અષાઢ, સુદ ત્રીજ",
+            "detils": 204
+          },
+          {
+            "date": "22",
+            "name": "ગજાનન સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "અષાઢ, વદ ચોથ",
+            "detils": 54
+          },
+          {
+            "date": "26",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "અષાઢ, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "26",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "અષાઢ, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "29",
+            "name": "કામિકા એકાદશી",
+            "gujaratiDate": "અષાઢ, વદ અગિયારશ",
+            "detils": 55
+          },
+          {
+            "date": "30",
+            "name": "ગૌણ કામિકા એકાદશી",
+            "gujaratiDate": "અષાઢ, વદ અગિયારશ",
+            "detils": 55
+          },
+          {
+            "date": "30",
+            "name": "વૈષ્ણવ કામિકા એકાદશી",
+            "gujaratiDate": "અષાઢ, વદ અગિયારશ",
+            "detils": 55
+          }
+        ]
+      },
+      {
+        "month": "08",
+        "data": [
+          {
+            "date": "02",
+            "name": "સોમવતી અમાસ",
+            "gujaratiDate": "અષાઢ, વદ અમાસ",
+            "detils": 403
+          },
+          {
+            "date": "02",
+            "name": "ચંદ્ર ગ્રહણ *પૂર્ણ",
+            "gujaratiDate": "અમાસ દરમિયાન થાય છે",
+            "details": 20
+          },
+          {
+            "date": "03",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "શ્રાવણ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "05",
+            "name": "દુર્વા ગણપતિ ચતુર્થી",
+            "gujaratiDate": "શ્રાવણ, સુદ ચોથ",
+            "detils": 518
+          },
+          {
+            "date": "07",
+            "name": "કલ્કિ જયંતી",
+            "gujaratiDate": "શ્રાવણ, સુદ છઠ",
+            "detils": 56
+          },
+          {
+            "date": "09",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "શ્રાવણ, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "12",
+            "name": "પવિત્રા એકાદશી",
+            "gujaratiDate": "શ્રાવણ, સુદ અગિયારશ",
+            "detils": 4
+          },
+          {
+            "date": "17",
+            "name": "રક્ષા બંધન",
+            "gujaratiDate": "શ્રાવણ, સુદ પૂનમ",
+            "detils": 58
+          },
+          {
+            "date": "17",
+            "name": "ચંદ્ર ગ્રહણ *ઉપચ્છાયા",
+            "gujaratiDate": "પૂનમ દરમિયાન થાય છે",
+            "details": 20
+          },
+          {
+            "date": "17",
+            "name": "અગસ્ત્ય અર્ધ્ય",
+            "gujaratiDate": "ખગોળશાસ્ત્રની ગણતરીઓ પર આધારિત",
+            "detils": 205
+          },
+          {
+            "date": "20",
+            "name": "હેરમ્બ સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "શ્રાવણ, વદ ચોથ",
+            "detils": 60
+          },
+          {
+            "date": "21",
+            "name": "બોલ ચોથ",
+            "gujaratiDate": "શ્રાવણ, વદ ચોથ",
+            "detils": 59
+          },
+          {
+            "date": "22",
+            "name": "નાગ પાંચમ",
+            "gujaratiDate": "શ્રાવણ, વદ પાંચમ",
+            "detils": 207
+          },
+          {
+            "date": "23",
+            "name": "રાંધણ છઠ",
+            "gujaratiDate": "શ્રાવણ, વદ છઠ",
+            "detils": 209
+          },
+          {
+            "date": "24",
+            "name": "શીતળા સાતમ",
+            "gujaratiDate": "શ્રાવણ, વદ સાતમ",
+            "detils": 300
+          },
+          {
+            "date": "24",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "શ્રાવણ, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "25",
+            "name": "કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "શ્રાવણ, વદ આઠમ",
+            "detils": 400
+          },
+          {
+            "date": "25",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "શ્રાવણ, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "28",
+            "name": "બચ બચ્છા બારસ",
+            "gujaratiDate": "શ્રાવણ, વદ બારસ",
+            "detils": 519
+          },
+
+          {
+            "date": "28",
+            "name": "અજા એકાદશી",
+            "gujaratiDate": "શ્રાવણ, વદ અગિયારશ",
+            "detils": 303
+          }
+        ]
+      },
+      {
+        "month": "09",
+        "data": [
+          {
+            "date": "02",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "ભાદરવો, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "03",
+            "name": "વરાહ જયંતી",
+            "gujaratiDate": "ભાદરવો, સુદ ત્રીજ",
+            "detils": 304
+          },
+          {
+            "date": "03",
+            "name": "કેવડા (હરિતાલિકા) ત્રીજ",
+            "gujaratiDate": "ભાદરવો, સુદ ત્રીજ",
+            "detils": 305
+          },
+          {
+            "date": "04",
+            "name": "ગણેશ ચતુર્થી",
+            "gujaratiDate": "ભાદરવો, સુદ ચોથ",
+            "detils": 306
+          },
+          {
+            "date": "04",
+            "name": "ઋષિ પંચમી",
+            "gujaratiDate": "ભાદરવો, સુદ પાંચમ",
+            "detils": 307
+          },
+          {
+            "date": "27",
+            "name": "સિદ્ધિવિનાયક ચતુર્થી",
+            "gujaratiDate": "ભાદરવો, સુદ ચોથ",
+            "detils": 520
+          },
+          {
+            "date": "07",
+            "name": "ધરો આઠમ",
+            "gujaratiDate": "ભાદરવો, સુદ આઠમ",
+            "detils": 309
+          },
+          {
+            "date": "08",
+            "name": "રાધાષ્ટમી",
+            "gujaratiDate": "ભાદરવો, સુદ આઠમ",
+            "detils": 308
+          },
+          {
+            "date": "08",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "ભાદરવો, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "11",
+            "name": "પરિવર્તિની એકાદશી",
+            "gujaratiDate": "ભાદરવો, સુદ અગિયારશ",
+            "detils": 61
+          },
+          {
+            "date": "12",
+            "name": "વામન જયંતી",
+            "gujaratiDate": "ભાદરવો, સુદ બારસ",
+            "detils": 62
+          },
+          {
+            "date": "14",
+            "name": "અનંત ચતુર્દશી",
+            "gujaratiDate": "ભાદરવો, સુદ ચૌદસ",
+            "detils": 63
+          },
+          {
+            "date": "14",
+            "name": "ગણેશ વિસર્જન",
+            "gujaratiDate": "ભાદરવો, સુદ ચૌદસ",
+            "detils": 64
+          },
+          {
+            "date": "16",
+            "name": "પિતૃપક્ષ પ્રારંભ",
+            "gujaratiDate": "ભાદરવો, વદ પડવો",
+            "detils": 65
+          },
+          {
+            "date": "19",
+            "name": "વિઘ્નરાજ સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "ભાદરવો, વદ ચોથ",
+            "detils": 66
+          },
+          {
+            "date": "23",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "ભાદરવો, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "23",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "ભાદરવો, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "26",
+            "name": "ઈન્દિરા એકાદશી",
+            "gujaratiDate": "ભાદરવો, વદ અગિયારશ",
+            "detils": 67
+          },
+          {
+            "date": "29",
+            "name": "સર્વપિતૃ અમાસ",
+            "gujaratiDate": "ભાદરવો, વદ અમાસ",
+            "detils": 68
+          },
+          {
+            "date": "30",
+            "name": "ઘટસ્થાપના",
+            "gujaratiDate": "આસો, સુદ પડવો",
+            "detils": 69
+          },
+          {
+            "date": "30",
+            "name": "નવરાત્રિ પ્રારંભ",
+            "gujaratiDate": "આસો, સુદ પડવો",
+            "detils": 70
+          }
+        ]
+      },
+      {
+        "month": "10",
+        "data": [
+          {
+            "date": "01",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "આસો, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "25",
+            "name": "કપર્દીશા ચતુર્થી",
+            "gujaratiDate": "આસો, સુદ ચોથ",
+            "detils": 513
+          },
+          {
+            "date": "06",
+            "name": "સરસ્વતી આવાહન",
+            "gujaratiDate": "આસો, મૂલ નક્ષત્ર",
+            "detils": 71
+          },
+          {
+            "date": "07",
+            "name": "સરસ્વતી પૂજા",
+            "gujaratiDate": "આસો, પૂર્વાષાઢા નક્ષત્ર",
+            "details": 73
+          },
+          {
+            "date": "07",
+            "name": "દુર્ગા અષ્ટમી",
+            "gujaratiDate": "આસો, સુદ આઠમ",
+            "detils": 72
+          },
+          {
+            "date": "07",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "આસો, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "08",
+            "name": "મહા નવમી",
+            "gujaratiDate": "આસો, સુદ નોમ",
+            "detils": 74
+          },
+          {
+            "date": "08",
+            "name": "સરસ્વતી બલિદાન",
+            "gujaratiDate": "આસો, ઉત્તરાષાઢા નક્ષત્ર",
+            "detils": 75
+          },
+          {
+            "date": "09",
+            "name": "વિજયાદશમી",
+            "gujaratiDate": "આસો, સુદ દશમ",
+            "detils": 76
+          },
+          {
+            "date": "09",
+            "name": "સરસ્વતી વિસર્જન",
+            "gujaratiDate": "આસો, શ્રવણ નક્ષત્ર",
+            "detils": 77
+          },
+          {
+            "date": "09",
+            "name": "દશેરા",
+            "gujaratiDate": "આસો, સુદ દશમ",
+            "detils": 78
+          },
+          {
+            "date": "11",
+            "name": "પાશાંકુશા એકાદશી",
+            "gujaratiDate": "આસો, સુદ અગિયારશ",
+            "detils": 79
+          },
+          {
+            "date": "14",
+            "name": "શરદ પૂનમ",
+            "gujaratiDate": "આસો, સુદ પૂનમ",
+            "detils": 80
+          },
+          {
+            "date": "14",
+            "name": "કોજાગરી પૂજા",
+            "gujaratiDate": "આસો, સુદ પૂનમ",
+            "detils": 81
+          },
+          {
+            "date": "18",
+            "name": "કરવા ચૌથ",
+            "gujaratiDate": "આસો, વદ ચોથ",
+            "detils": 82
+          },
+          {
+            "date": "18",
+            "name": "વક્રતુંડ સંકષ્ટ યતુર્થી",
+            "gujaratiDate": "આસો, વદ ચોથ",
+            "detils": 83
+          },
+          {
+            "date": "22",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "આસો, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "22",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "આસો, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "25",
+            "name": "રમા એકાદશી",
+            "gujaratiDate": "આસો, વદ અગિયારશ",
+            "detils": 84
+          },
+          {
+            "date": "26",
+            "name": "વૈષ્ણવ રમા એકાદશી",
+            "gujaratiDate": "આસો, વદ અગિયારશ",
+            "detils": 84
+          },
+          {
+            "date": "26",
+            "name": "વાઘ બારસ",
+            "gujaratiDate": "આસો, વદ બારસ",
+            "detils": 85
+          },
+          {
+            "date": "27",
+            "name": "ધનતેરસ",
+            "gujaratiDate": "આસો, વદ તેરસ",
+            "detils": 86
+          },
+          {
+            "date": "27",
+            "name": "હનુમાન પૂજા",
+            "gujaratiDate": "આસો, વદ ચૌદસ",
+            "detils": 87
+          },
+          {
+            "date": "27",
+            "name": "કાળી ચૌદસ",
+            "gujaratiDate": "આસો, વદ ચૌદસ",
+            "detils": 88
+          },
+          {
+            "date": "28",
+            "name": "રૂપ ચતુર્દશી",
+            "gujaratiDate": "આસો, વદ ચૌદસ",
+            "detils": 91
+          },
+          {
+            "date": "29",
+            "name": "લક્ષ્મી પૂજા",
+            "gujaratiDate": "આસો, વદ અમાસ",
+            "detils": 89
+          },
+          {
+            "date": "29",
+            "name": "ચોપડા પૂજન",
+            "gujaratiDate": "આસો, વદ અમાસ",
+            "detils": 92
+          },
+          {
+            "date": "29",
+            "name": "દિવાળી",
+            "gujaratiDate": "આસો, વદ અમાસ",
+            "detils": 93
+          },
+          {
+            "date": "29",
+            "name": "શારદા પૂજન",
+            "gujaratiDate": "આસો, વદ અમાસ",
+            "detils": 90
+          },
+          {
+            "date": "30",
+            "name": "ગોવર્ધન પૂજા",
+            "gujaratiDate": "કારતક, સુદ પડવો",
+            "detils": 94
+          },
+          {
+            "date": "30",
+            "name": "બેસતું વર્ષ",
+            "gujaratiDate": "કારતક, સુદ પડવો",
+            "detils": 95
+          },
+          {
+            "date": "30",
+            "name": "અન્નકૂટ",
+            "gujaratiDate": "કારતક, સુદ પડવો",
+            "detils": 402
+          },
+          {
+            "date": "31",
+            "name": "ભાઈ બીજ",
+            "gujaratiDate": "કારતક, સુદ બીજ",
+            "detils": 96
+          },
+          {
+            "date": "31",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "કારતક, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "31",
+            "name": "યમ દ્વિતીયા",
+            "gujaratiDate": "કારતક, સુદ બીજ",
+            "detils": 97
+          }
+        ]
+      },
+      {
+        "month": "11",
+        "data": [
+          {
+            "date": "02",
+            "name": "લાભ ચતુર્થી",
+            "gujaratiDate": "કારતક, સુદ ચોથ",
+            "detils": 522
+          },
+          {
+            "date": "03",
+            "name": "લાભ પાંચમ",
+            "gujaratiDate": "કારતક, સુદ પાંચમ",
+            "detils": 98
+          },
+          {
+            "date": "05",
+            "name": "જલારામ બાપા જયંતી",
+            "gujaratiDate": "કારતક, સુદ સાતમ",
+            "detils": 99
+          },
+          {
+            "date": "06",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "કારતક, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "07",
+            "name": "અક્ષય નવમી",
+            "gujaratiDate": "કારતક, સુદ નોમ",
+            "detils": 100
+          },
+          {
+            "date": "10",
+            "name": "પ્રબોધિની એકાદશી",
+            "gujaratiDate": "કારતક, સુદ અગિયારશ",
+            "detils": 101
+          },
+          {
+            "date": "11",
+            "name": "તુલસી વિવાહ",
+            "gujaratiDate": "કારતક, સુદ બારસ",
+            "detils": 102
+          },
+          {
+            "date": "13",
+            "name": "દેવ દિવાળી",
+            "gujaratiDate": "કારતક, સુદ પૂનમ",
+            "detils": 104
+          },
+          {
+            "date": "17",
+            "name": "ગણાધિપ સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "કારતક, વદ ચોથ",
+            "detils": 103
+          },
+          {
+            "date": "20",
+            "name": "કાલભૈરવ જયંતી",
+            "gujaratiDate": "કારતક, વદ આઠમ",
+            "detils": 105
+          },
+          {
+            "date": "20",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "કારતક, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "20",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "કારતક, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "24",
+            "name": "ઉત્પતિ એકાદશી",
+            "gujaratiDate": "કારતક, વદ અગિયારશ",
+            "detils": 106
+          },
+          {
+            "date": "29",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "માગશર, સુદ પડવો",
+            "detils": 1
+          }
+        ]
+      },
+      {
+        "month": "12",
+        "data": [
+          {
+            "date": "02",
+            "name": "કૃષ્ણ ચતુર્થી",
+            "gujaratiDate": "માગશર, સુદ ચોથ",
+            "detils": 523
+          },
+          {
+            "date": "06",
+            "name": "માસિક દુર્ગાષ્ટમી",
+            "gujaratiDate": "માગશર, સુદ આઠમ",
+            "detils": 3
+          },
+          {
+            "date": "09",
+            "name": "ગીતા જયંતી",
+            "gujaratiDate": "માગશર, સુદ અગિયારશ",
+            "detils": 107
+          },
+          {
+            "date": "09",
+            "name": "મોક્ષદા એકાદશી",
+            "gujaratiDate": "માગશર, સુદ અગિયારશ",
+            "detils": 108
+          },
+          {
+            "date": "13",
+            "name": "દત્ત જયંતી",
+            "gujaratiDate": "માગશર, સુદ પૂનમ",
+            "detils": 109
+          },
+          {
+            "date": "16",
+            "name": "અખુરથ સંકષ્ટ ચતુર્થી",
+            "gujaratiDate": "માગશર, વદ ચોથ",
+            "detils": 200
+          },
+          {
+            "date": "20",
+            "name": "માસિક કૃષ્ણ જન્માષ્ટમી",
+            "gujaratiDate": "માગશર, વદ આઠમ",
+            "detils": 511
+          },
+          {
+            "date": "20",
+            "name": "કાલાષ્ટમી",
+            "gujaratiDate": "માગશર, વદ આઠમ",
+            "detils": 9
+          },
+          {
+            "date": "23",
+            "name": "સફલા એકાદશી",
+            "gujaratiDate": "માગશર, વદ અગિયારશ",
+            "detils": 201
+          },
+          {
+            "date": "29",
+            "name": "ચન્દ્ર દર્શન",
+            "gujaratiDate": "પોષ, સુદ પડવો",
+            "detils": 1
+          },
+          {
+            "date": "27",
+            "name": "સોમવતી અમાસ",
+            "gujaratiDate": "મહા, સુદ અમાસ",
+            "detils": 403
+          },
+          {
+            "date": "31",
+            "name": "વિઘ્નેશ્વર ચતુર્થી",
+            "gujaratiDate": "પોષ, સુદ ચોથ",
+            "detils": 2
+          },
+          {
+            "date": "25",
+            "name": "નાતાલ",
+            "gujaratiDate": "સૌર કેલેન્ડર પર આધારિત",
+            "details": 203
           }
         ]
       }
